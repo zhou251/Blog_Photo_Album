@@ -8,8 +8,8 @@ class Graphics:
     
     参数
     -------
-    infile: 输入文件路径
-    outfile: 输出文件路径
+    infile: E:\Github\Blog_Photo_Album\photos
+    outfile: E:\Github\Blog_Photo_Album\min_photos
     '''
     def __init__(self, infile, outfile):
         self.infile = infile
